@@ -1,5 +1,5 @@
-# giriraj_time_table_task
-This is project of Giriraj task performed by Mukesh Vaza
+# myOneTwoTask
+This is project of myOneTwoTask task performed by Mukesh Vaza
 
 =>Install this project on your PC
 
